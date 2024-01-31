@@ -1,0 +1,1 @@
+Used starter code, StackOverflow, and TAs, and Learning Assistants to work through problems. Especially the for loop, I relied very heavily on TA input, and I used a google and class activites to work through the graphs
